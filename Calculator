@@ -6,3 +6,7 @@ int sum = a + b;
 Console.WriteLine("The Sum of two numbers is"+sum);
 int substract = a -b;
 Console.WriteLine("The substract of two numbers is" + substract); 
+int multi = a * b;
+Console.WriteLine("The multiplication of two numbers is " + multi);
+int div = a /b;
+Console.WriteLine("The division of two numbers " + div);
